@@ -138,4 +138,4 @@ ________________________________________
 **In summary**, this project illustrates how fundamental programming skills can be used to create both an enjoyable and educational tool, benefiting new developers and those learning the basics of C++ programming.
 
 <br><br>
-<h6><p align="center"> © 2025 MUHAMMAD WALEED | All rights reserved </h6> </p>
+<h6><p align="center">copyrights © 2025 MUHAMMAD WALEED | All rights reserved </h6> </p>
