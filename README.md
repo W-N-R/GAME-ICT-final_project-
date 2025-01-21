@@ -1,7 +1,7 @@
 <h1>Number Guessing game</h1>
 <h2>Powered by: <b>WARAV</b></h2> 
 
-🎮 I have developed a number guessing game using the C++ programming language 💻. This project was created as part of a university assignment 📚, where the primary requirement was to utilize only the basic concepts of C++ without incorporating any advanced libraries or frameworks 🚫📦. As a result, the game does not include any graphical elements 🎨🖼️ since I was not permitted to use libraries like SFML or similar tools to enhance the visuals.
+🎮 I have developed a number guessing game using the C++ programming language 💻. This project was created as part of a university assignment 📚, where the primary requirement was to utilize only the basic concepts of C++ without incorporating any advanced libraries or frameworks  🚫📦. As a result, the game does not include any graphical elements 🎨🖼️ since I was not permitted to use libraries like SFML or similar tools to enhance the visuals.
 
 🔢 The game is designed to focus purely on logic 🧠 and functionality ⚙️, showcasing my understanding of fundamental programming concepts such as loops 🔁, conditional statements ❓✅, functions 📂, and random number generation 🎲🔢. Despite the absence of advanced graphics, the game offers an engaging and interactive experience 🎉🕹️ by challenging users to guess a randomly generated number within a specified range.
 
