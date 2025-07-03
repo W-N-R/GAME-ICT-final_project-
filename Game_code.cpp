@@ -4,7 +4,6 @@
 //#include<ctime>
 //#include<cstdlib>
 //#include<string>
-//#include <.hfile>
 //
 //using namespace std;
 //void type(int n) {
