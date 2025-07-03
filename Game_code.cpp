@@ -95,6 +95,7 @@
 //				file << "Result: " << feedback2 << endl;
 //				break;
 //			}
+//
 //			int user_input = 0;
 //			while (true) {
 //				cout << "Enter your guess (an integer): " << "\t\t\t\t\t      ";
